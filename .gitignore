@@ -1,0 +1,18 @@
+# Python 缓存与虚拟环境
+__pycache__/
+*.pyc
+backend/.venv/
+
+# 密钥(永不提交!)
+.env
+
+# 向量库数据与公司文档(生成物/敏感资料)
+backend/data/chroma/
+backend/data/docs/
+
+# 前端(Node,第 4 阶段起生效)
+node_modules/
+dist/
+
+# IDE 配置
+.idea/
