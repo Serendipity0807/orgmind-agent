@@ -3,3 +3,11 @@ uvicorn
 
 langchain-openai
 python-dotenv
+
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+docx2txt
+
