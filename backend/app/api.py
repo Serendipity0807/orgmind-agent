@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
 
-from app.rag.chat import answer
+from app.agent import answer
 
 router = APIRouter()
 

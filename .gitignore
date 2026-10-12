@@ -16,3 +16,7 @@ dist/
 
 # IDE 配置
 .idea/
+
+#数据库
+backend/data/org.db
+

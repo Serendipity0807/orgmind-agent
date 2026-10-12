@@ -11,3 +11,5 @@ langchain-chroma
 sentence-transformers
 docx2txt
 
+langchain
+
